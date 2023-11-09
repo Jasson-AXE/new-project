@@ -1,6 +1,5 @@
 # new-project
 This is new project for Developers
 
-This is the main branch
-
-
+- the main branch
+- second branch has name as a "development"
